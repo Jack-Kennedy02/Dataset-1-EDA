@@ -7,4 +7,4 @@
 2. Correlations
     - Most features show low linear correlation (< 0.3)
     - Suggests nonlinear patterns
-    - Decision Tree may work better than LDA.
+    - Decision Tree may work better than LDA. 
